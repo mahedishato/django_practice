@@ -1,0 +1,82 @@
+a{
+    text-decoration: none;
+}
+p{
+    font-size: 20px;
+    color: green;
+}
+/* *{
+    color: red;
+} */
+
+
+
+
+
+form {
+	width: 400px;
+	margin: 0 auto;
+	background-color: #fff;
+	padding: 20px;
+	border-radius: 10px;
+	box-shadow: 0px 0px 10px #333;
+}
+
+
+label {
+	display: block;
+	font-size: 16px;
+	margin-bottom: 5px;
+}
+
+input[type="text"], input[type="password"] ,input[type="email"] {
+	width: 95%;
+	padding: 10px;
+	margin-bottom: 20px;
+	border: 1px;
+	border-radius: 5px;
+	background-color: #f2f2f2;
+}
+
+
+button[type="submit"] {
+	background-color: #333;
+	color: #fff;
+	border: none;
+	padding: 10px 20px;
+	border-radius: 5px;
+	font-size: 16px;
+	cursor: pointer;
+}
+
+button[type="submit"]:hover {
+	background-color: #555;
+}
+
+.lorem{
+    background-color: bisque;
+    text-align: justify;
+    font-size: 18px;
+    letter-spacing: 2px;
+    line-height: 2.5;
+    /* text-decoration: underline overline; */
+    /* text-decoration-line:line-through ; */
+    text-indent: 50px;
+    text-shadow: 2px 3px 4px rosybrown;
+    text-transform: uppercase;
+}
+
+.footer{
+	color: aqua;
+    font-size: 16px;
+    background-color: green;
+    text-align: center;
+}
+
+#page{
+    text-decoration: none;
+	color: brown;
+}
+
+
+

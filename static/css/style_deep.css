@@ -1,0 +1,50 @@
+body{
+    background-color: rgb(109, 128, 0);
+
+}
+h1{
+    
+    color: blue;
+    font-size: 60px;
+}
+a{
+    color: rgb(67, 1, 1);
+    font-size: 20px;
+    text-decoration: none;
+}
+img{
+    height: 400px;
+    width: 500px;
+    
+
+}
+table{
+    font-size: 40px;
+    width: 300px; /* Set a width for the container */
+    margin: 0 auto;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    /* border-collapse:collapse; */
+    color: aquamarine;
+    position: relative;
+    position: absolute;
+    top: 85%;
+    left: 86%;
+    transform: translate(-50%, -50%);
+}
+
+td, th  {
+    border: 1px solid blue;
+}
+
+ul{
+    position: absolute;
+    position: relative;
+    font-size: 40px;
+    top: 85%;
+    left: 86%;
+}
+ol{
+    font-size: 40px;
+}
+

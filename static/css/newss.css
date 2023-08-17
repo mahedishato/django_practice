@@ -1,0 +1,51 @@
+h2{
+    color: rgb(30, 55, 47);
+}
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.margin{
+    height: 200px;
+    width: 400px;
+    border: 4px solid blue;
+    margin: 50px 20px 20px 500px;
+}
+
+
+.padding{
+    height: 100px;
+    width: 300px;
+    border: 4px solid pink;
+    margin: 20px 30px 20px 30px;
+    padding: 10px 10px 10px 10px;
+}
+
+
+.border{
+    height: 200px;
+    width: 0px;
+    border: 100px solid red;
+    border-top-color:green ;
+    border-left-color: aqua;
+    border-right-color: blue;
+    border-bottom-color: transparent;
+    margin-left: 650px;
+    border-radius: 20px;
+    
+   
+}
+
+
+.table{
+    width: 300px;
+    border: 3px;
+    color: rebeccapurple;
+    table-layout: fixed;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    
+}
+
